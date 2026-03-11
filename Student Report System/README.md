@@ -1,37 +1,73 @@
-# 🧠 Mini Project: Student Information System
+# Student Report System (Python)
 
-Create a small program that:
+A simple beginner Python project that calculates a student's **total marks**, **average marks**, and **pass/fail status**.
 
-### Requirements
+This project was built while learning:
 
-1. Ask the user for:
+* Data Types
+* Operators
+* Typecasting
+* Conditional Statements
 
-   * Name
-   * Age
-   * Marks in 3 subjects
+## 🚀 Features
 
-2. Use **typecasting** to convert marks to numbers.
+* Takes student name and age
+* Accepts marks for 3 subjects
+* Calculates total marks
+* Calculates average marks
+* Displays pass or fail result
 
-3. Calculate:
-
-   * Total marks
-   * Average marks
-
-4. Display result like this:
+## 📂 Project Structure
 
 ```
----- Student Report ----
+student-report-system
+│
+├── README.md
+├── program.py
+└── example_output.txt
+```
+
+## ▶️ How to Run
+
+1. Install Python
+2. Clone the repository
+
+```
+git clone https://github.com/yourusername/student-report-system.git
+```
+
+3. Run the program
+
+```
+python program.py
+```
+
+## 💻 Example Output
+
+```
+Enter your Name: Rahul
+Enter your Age: 20
+Enter Marks in Subject 1: 80
+Enter Marks in Subject 2: 70
+Enter Marks in Subject 3: 90
+
+----- Student Report -----
 Name: Rahul
 Age: 20
 Total Marks: 240
-Average: 80.0
-Passed: True
+Average Marks: 80.0
+PASS
 ```
 
-Rule:
+## 📚 What I Learned
 
-```
-If average >= 40 → Passed
-Else → Failed
-```
+* Python input and output
+* Data types
+* Typecasting
+* Basic arithmetic operations
+* Conditional statements
+
+## 👨‍💻 Author
+
+Created while learning Python.
 
