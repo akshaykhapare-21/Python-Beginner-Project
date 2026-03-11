@@ -68,6 +68,6 @@ PASS
 * Conditional statements
 
 ## 👨‍💻 Author
+AKSHAY KHAPARE
 
-Created while learning Python.
 
